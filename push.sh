@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd ..
+
 # Agregar titulo al README.md
 echo "Agrega titulo al README.md"
 read ridmi
